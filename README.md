@@ -1,2 +1,2 @@
 # cyclone
-A Set of Firmware for the FPGA (Cyclone III)
+Hardware solution elimination of contact bounce on the FPGA
